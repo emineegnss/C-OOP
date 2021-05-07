@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proje.Kış">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAABAgAAgAAAAAAAAAAAAAAAAAAAAAAACCAAgAA=</HashCode>
+      <FileName>Kış.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.İlkbahar">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAAAAAAgAIAAAAAAAAAAAAAAAAAAACCAAAAA=</HashCode>
+      <FileName>İlkbahar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.Mevsim" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAADCAAAAA=</HashCode>
+      <FileName>Mevsim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.Sonbahar">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACEAQAAAAAAAAAAAAAAAAAAAADCAAAAA=</HashCode>
+      <FileName>Sonbahar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.Yaz">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAABBAAAACAAAAAQAACCAAAAA=</HashCode>
+      <FileName>Yaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proje.Bilgiler" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAACgAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Bilgi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

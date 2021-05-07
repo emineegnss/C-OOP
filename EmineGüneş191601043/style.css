@@ -1,0 +1,38 @@
+﻿body {
+}
+.stil {
+    background-color: deeppink;
+    padding: 15px;
+    text-align: center;
+    
+    text-decoration: double;
+    margin: unset;
+    font-weight: 500;
+    color: mediumblue;
+    font-size: 40px;
+    text-transform: none;
+    font-style: oblique;
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-_O7aVjakE1-7-BhRaRVYCnxxeRstLxHlQ&usqp=CAU);
+}
+.stil2 {
+    padding: 10px;
+    text-align: end;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnOGxtoP6Nx1OLBlLrCdBcjRWm2eyBXEVEQ&usqp=CAU);
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: oblique;
+}
+.auto-style19 {
+    padding: 10px;
+    text-align: end;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXurcKXe6UP8IZLEXm9rIFDR5jSeuDASidEQ&usqp=CAU');
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    width: 1433px;
+}
